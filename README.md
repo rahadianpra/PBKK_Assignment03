@@ -2,7 +2,7 @@
 ## PBKK ASSIGNMENT 03
 ##  Rahadian Suryo Prayitno (5025201149)
 
-### Assignment 1 Proof
+### Challenge 1 Proof
 
 ### 1
 ![image](https://user-images.githubusercontent.com/112470793/223919448-141358b7-92a2-4ef8-a5eb-0afbe16ef098.png)
